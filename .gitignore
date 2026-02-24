@@ -1,0 +1,16 @@
+# Node Backend
+node_modules/
+.env
+npm-debug.log*
+
+# Flutter Frontend
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
